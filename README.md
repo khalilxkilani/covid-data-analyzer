@@ -1,2 +1,2 @@
-# Covid Data Analyzer
+# COVID-19 Data Analyzer
 A program to compare Johns Hopkins University COVID-19 data vs world happiness
